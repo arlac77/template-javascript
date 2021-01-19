@@ -1,0 +1,9 @@
+{
+  "template": {
+    "properties": {
+      "javascript": {
+        "source": "./src/**/*.mjs"
+      }
+    }
+  }
+}
