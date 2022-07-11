@@ -1,7 +1,7 @@
 {
   "template": {
     "properties": {
-      "node_version": "16.15.1",
+      "node_version": "16.16.0",
       "javascript": {
         "source": "./src/**/*.mjs"
       }
