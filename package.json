@@ -3,6 +3,7 @@
     "properties": {
       "node_version": "20.11.0",
       "javascript": {
+        "rootDir": "src",
         "source": "./src/**/*.mjs"
       }
     },
