@@ -1,7 +1,7 @@
 {
   "template": {
     "properties": {
-      "node_version": "20.11.0",
+      "node_version": "20.11.1",
       "javascript": {
         "rootDir": "src",
         "source": "./src/**/*.mjs"
