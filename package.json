@@ -1,9 +1,9 @@
 {
   "template": {
     "properties": {
-      "node_version": "24.10.0",
+      "node_version": "24.11.0",
       "node": {
-        "version" : "24.10.0"
+        "version" : "24.11.0"
       },
       "javascript": {
         "rootDir": "src",
